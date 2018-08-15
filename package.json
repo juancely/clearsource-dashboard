@@ -1,0 +1,25 @@
+{
+  "name": "clearsource-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard for clearsource cron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancely/clearsource-dashboard.git"
+  },
+  "keywords": [
+    "dashbaord",
+    "Clearsource",
+    "cron"
+  ],
+  "author": "Cely Ramos Juan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancely/clearsource-dashboard/issues"
+  },
+  "homepage": "https://github.com/juancely/clearsource-dashboard#readme"
+}
